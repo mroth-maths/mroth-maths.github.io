@@ -12,8 +12,23 @@ minimal_mistakes_skin : [air]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Marie Roth, Ph.D"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Marie Roth"
+description:	       "2026 Marie Roth, Ph.D.. Powered by Jekyll & Minimal Mistakes."
+author: 
+  name: Marie Roth             
+  avatar : "/assets/img/profile.jpg"
+  bio    : >-
+    Pure math postdoc
+  location: "Norwich, United Kindom"
+
+  github: "mroths-maths"
+ 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:m.roth@uea.ac.uk"
+    - label: "CV"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/files/MR_CV.pdf"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
