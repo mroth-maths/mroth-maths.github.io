@@ -20,7 +20,7 @@ direction                : # "ltr" (default), "rtl" # set the direction of the p
 title                    : "Marie Roth, Ph.D."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Marie Roth
+name                     : "Marie Roth"
 description              : "Professional website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -312,21 +312,6 @@ defaults:
       related: true
 
 
-author : 
-  name : Marie Roth             
-  avatar : "/assets/img/profile.jpg"
-  bio    : >-
-    Pure math postdoc
-  location: "Norwich, United Kindom"
 
-  github: "mroths-maths"
- 
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:m.roth@uea.ac.uk"
-    - label: "CV"
-      icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/MR_CV.pdf"
 
 
