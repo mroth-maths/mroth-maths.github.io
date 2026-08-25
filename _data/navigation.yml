@@ -4,7 +4,9 @@ main:
     url: /
   - title: "Research"
     url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Conferences"
+    url: /conferences/
   - title: "Gallery"
     url: /gallery/
-  - title: "Posts"
-    url: /posts/
