@@ -11,16 +11,16 @@ header:
 I am currently organising the ANTLR seminar for the University of East Anglia. More info
 [here](https://researchseminars.org/seminar/UEAPS).
 
-<h3>Upcoming invited talks</h3>
-21/10 [EQual](https://sites.google.com/view/equalseminar/home): TBA  
+#### Upcoming invited talks 
+- 21 Oct. 2026 [EQual](https://sites.google.com/view/equalseminar/home): TBA  
 
-<h3>Upcoming conferences</h3>
-Sep. 2026 [GRIP](https://events.math.unipd.it/grip2026/) GRoup theory In Padova, project on Sylow restriction in the representation theory of symmetric and related groups with Stanley Law
-Nov. 2026 
+#### Upcoming conferences
+- Sept. 2026 [GRIP](https://events.math.unipd.it/grip2026/) (GRoup theory In Padova), project on Sylow restriction in the representation theory of symmetric and related groups with Stanley Law
+- Nov. 2026 Interactions between Representations of Finite and p-adic Groups at Oberwolfach
 
-<h3>Previous invited talks</h3>
+#### Previous invited talks
 
-<h3>Previous conferences</h3>
+#### Previous conferences 
 
 <br><br>
 This page is under construction. Stay tuned!
