@@ -38,7 +38,8 @@ layout: default
       <header>
         {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
           <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "
-            <p>" | remove: "</p>" }}</a>
+            <p>" | remove: "</p>" }}
+          </a>
         </h1>{% endif %}
         {% include page__meta.html %}
       </header>
@@ -67,6 +68,26 @@ layout: default
         {% endif %}
         {% include page__taxonomy.html %}
         {% include page__date.html %}
+
+        <script>
+          fetch("https://api.github.com/repos/mroth-maths/mroth-maths.github.io/commits?path={{ page.path | url_encode }}&per_page=1")
+            .then(response => response.json())
+            .then(data => {
+              if (data.length > 0) {
+                const date = new Date(data[0].commit.committer.date);
+                document.querySelector("#last-updated span").textContent =
+                  date.toLocaleDateString("en-GB", {
+                    day: "numeric",
+                    month: "long",
+                    year: "numeric"
+                  });
+              }
+            })
+            .catch(() => {
+              document.querySelector("#last-updated span").textContent = "";
+            });
+        </script>
+
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
