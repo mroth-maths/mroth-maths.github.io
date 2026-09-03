@@ -25,7 +25,7 @@ I am currently organising the ANTLR seminar for the University of East Anglia. M
 ### Past
 
 #### Invited talks
-- Mar. 2026: *Unitriangularity of decomposition matrices: the simple adjoint finite groups of exceptional type*([slides](/assets/files/talks/unitriang_decmat.pdf)) at the Algebra seminar, University of Birmingham, United Kingdom
+- Mar. 2026: *Unitriangularity of decomposition matrices: the simple adjoint finite groups of exceptional type*([slides](./assets/files/talks/unitriang_decmat.pdf)) at the Algebra seminar, University of Birmingham, United Kingdom
 - Nov. 2025: *On the unitriangularity of decomposition matrices of finite groups of Lie type of exceptional type*, ANTLR seminar, University of East Anglia, United Kingdom
 - Nov. 2025: *Character sheaves and their restriction to mixed conjugacy classes*, Oxford algebra seminar, United Kingdom
 Oct. 2025: *Character sheaves and their restriction to mixed conjugacy classes*, London Algebra Colloquium, United Kingdom
@@ -35,7 +35,7 @@ Oct. 2025: *Character sheaves and their restriction to mixed conjugacy classes*,
 
 
 #### Selected contributed talks
-- Dec. 2024: [Poster](/assets/files/talks/poster.pdf) *Are decomposition matrices of finite groups of Lie type unitriangular?* Women in Algebra and Symbolic Computation III'' in Bad Dürkheim Germany
+- Dec. 2024: [Poster](./assets/files/talks/poster.pdf) *Are decomposition matrices of finite groups of Lie type unitriangular?* Women in Algebra and Symbolic Computation III'' in Bad Dürkheim Germany
 - Jul. 2024: *On the unitriangularity of decomposition matrices of finite reductive groups*, Group Theory in Florence IV, Italy
 - Mar. 2024: *Why are exceptions so valuable: a quick introduction to the Moonshine conjecture*, Séminaire doctorant CPT/I2M à Luminy, France
 

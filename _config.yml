@@ -115,7 +115,7 @@ author:
  #     url: "aejk@alum.mit.edu"
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/court_cv.pdf"
+      url: "/assets/files/main.pdf"
     - label: "ORCiD"
       icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0009-0000-8816-1332"
