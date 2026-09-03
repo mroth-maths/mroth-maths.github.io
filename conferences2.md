@@ -12,7 +12,9 @@ I am currently organising the ANTLR seminar for the University of East Anglia. M
 [here](https://researchseminars.org/seminar/UEAPS).
 
 #### Upcoming invited talks 
+- 15 Oct. 2026 Algebra seminar at Warwick University
 - 21 Oct. 2026 [EQual](https://sites.google.com/view/equalseminar/home): TBA  
+
 
 #### Upcoming conferences
 - Sept. 2026 [GRIP](https://events.math.unipd.it/grip2026/) (GRoup theory In Padova), project on Sylow restriction in the representation theory of symmetric and related groups with Stanley Law
@@ -22,8 +24,7 @@ I am currently organising the ANTLR seminar for the University of East Anglia. M
 
 #### Previous conferences 
 
-<br><br>
-This page is under construction. Stay tuned!
+
 
 <br><br>
 Page last updated: Sep 01, 2026
