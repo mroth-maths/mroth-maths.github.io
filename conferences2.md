@@ -25,10 +25,10 @@ I am currently organising the ANTLR seminar for the University of East Anglia. M
 ### Past
 
 #### Invited talks
-- Mar. 2026: *Unitriangularity of decomposition matrices: the simple adjoint finite groups of exceptional type*([slides](./assets/files/talks/unitriang_decmat.pdf)) at the Algebra seminar, University of Birmingham, United Kingdom
+- Mar. 2026: *Unitriangularity of decomposition matrices: the simple adjoint finite groups of exceptional type* ([slides](./assets/files/talks/unitriang_decmat.pdf)) at the Algebra seminar, University of Birmingham, United Kingdom
 - Nov. 2025: *On the unitriangularity of decomposition matrices of finite groups of Lie type of exceptional type*, ANTLR seminar, University of East Anglia, United Kingdom
 - Nov. 2025: *Character sheaves and their restriction to mixed conjugacy classes*, Oxford algebra seminar, United Kingdom
-Oct. 2025: *Character sheaves and their restriction to mixed conjugacy classes*, London Algebra Colloquium, United Kingdom
+- Oct. 2025: *Character sheaves and their restriction to mixed conjugacy classes*, London Algebra Colloquium, United Kingdom
 - Sep. 2025: *On the unitriangularity of decomposition matrices of finite groups of Lie type of exceptional type*, Annual meeting SFB TRR 195, Germany
 - Nov. 2024: *On the unitriangularity of decomposition matrices of finite reductive groups*, Groups and Representation Theory in Lausanne 2024, Switzerland
 
