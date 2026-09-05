@@ -24,6 +24,8 @@ I am currently organising the ANTLR seminar for the University of East Anglia. M
 
 ### Past
 
+In January 2026, I co-organised with Vanessa Miemietz a [mini-conference on categorification](https://sites.google.com/view/categorificationuea2026).
+
 #### Invited talks
 - Mar. 2026: *Unitriangularity of decomposition matrices: the simple adjoint finite groups of exceptional type* ([slides](./assets/files/talks/unitriang_decmat.pdf)) at the Algebra seminar, University of Birmingham, United Kingdom
 - Nov. 2025: *On the unitriangularity of decomposition matrices of finite groups of Lie type of exceptional type*, ANTLR seminar, University of East Anglia, United Kingdom

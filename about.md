@@ -28,7 +28,7 @@ I am currently a Postdoc (officially senior research assistant) at the Universit
 My research interests lie in representation theory, and more precisely at the interaction between representations in characteristic zero and positive characteristic. During my thesis, I focused on finite groups of Lie type and now I am looking at 2-representations of 2-categories such as Soergel bimodules. 
 
 
-{% include feature_row %}
+{% include feature_row type="center" %}
 
 
 
