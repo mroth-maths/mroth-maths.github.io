@@ -20,7 +20,7 @@ The subregular and submaximal p-cells. Aug. 2026 with V. Miemietz, M. Roth and D
 "Unitriangularity of decomposition matrices of the unipotent l-blocks for simple adjoint exceptional groups". Ann. Represent. Theory 2.4 (2025). [pdf](./assets/files/Papers/ART_2025__2_4_537_0.pdf)
 
 #### Theses
-- PhD Thesis (Mar. 2025) Character sheaves and modular representations of finite reductive groups, On the unitriangularity of their decomposition matrices. Supervised by Olivier Dudas and Gunter Malle. [pdf](./assets/files/Papers/DissertationMarieRoth.pdf), [Defense talk](./assets/files/Talks/poster.pdf)
+- PhD Thesis (Mar. 2025) Character sheaves and modular representations of finite reductive groups, On the unitriangularity of their decomposition matrices. Supervised by Olivier Dudas and Gunter Malle. [pdf](./assets/files/Papers/DissertationMarieRoth.pdf), [Defense talk](./assets/files/Talks/Defense.pdf)
 - Master Thesis (Feb. 2022): Ennola duality in subgroups of classical groups supervised by David Craven and Donna Testerman
 
 
