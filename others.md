@@ -1,6 +1,6 @@
 ---
 layout: single
-title: More
+title: Other interests
 permalink: /more/
 author_profile: true
 classes: wide
@@ -8,9 +8,11 @@ header:
     image: /assets/images/hellahpisco2.jpg
 ---
 
+
+
 ### Diversity and Equality
 
-- Mai 2026: co-organised the International Women in Maths day at the University of East Anglia
+- Mai 2026: co-organised the International Women in Maths day at the University of East Anglia ([poster](./assets/images/womeninmathsposter.png))
 - Jun. 2022- Jun. 2025: member of the gender committee of SFB-TRR 195
 
 ### Maths and Children
