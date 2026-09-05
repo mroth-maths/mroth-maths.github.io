@@ -7,7 +7,7 @@ classes: wide
 header:
     image: /assets/images/about2.jpg
 feature_row:
-  - image_path: /assets/images/research.jpg
+  - image_path: /assets/images/research3.jpg
     url: "#research"
     btn_label: "Research"
     btn_class: "btn--inverse"
@@ -28,7 +28,7 @@ I am currently a Postdoc (officially senior research assistant) at the Universit
 My research interests lie in representation theory, and more precisely at the interaction between representations in characteristic zero and positive characteristic. During my thesis, I focused on finite groups of Lie type and now I am looking at 2-representations of 2-categories such as Soergel bimodules. 
 
 
-{% include feature_row type="center" %}
+{% include feature_row %}
 
 
 
