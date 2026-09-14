@@ -43,7 +43,7 @@ In January 2026, I co-organised with Vanessa Miemietz a [mini-conference on cate
 
 #### Conferences and summer schools
 
-- Sep. 2025: Annual meeting SFB TRR 195'', Germany
+- Sep. 2025: Annual meeting SFB TRR 195, Germany
 - Aug. 2025: AGGITatE 2025: Groups, Representations and Cohomology in Essex, United Kingdom
 - Jul. 2025: Modular Lie theory in York, United Kingdom
 - Dec. 2024: Nikolaus Conference 2024 in Aachen, Germany
