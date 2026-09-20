@@ -12,7 +12,7 @@ feature_row:
     btn_label: "Research"
     btn_class: "btn--inverse"
   - image_path: /assets/images/conferences.JPG
-    url: "conferences"
+    url: "conferences2"
     btn_label: "Conferences"
     btn_class: "btn--inverse"
   - image_path: /assets/images/teaching.JPG

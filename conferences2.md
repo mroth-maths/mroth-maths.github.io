@@ -14,7 +14,7 @@ I am currently organising the ANTLR seminar for the University of East Anglia. M
 ### Upcoming
 
 #### Invited talks 
-- 15 Oct. 2026 Algebra seminar at Warwick University
+- 15 Oct. 2026 Algebra seminar at Warwick University: TBA
 - 21 Oct. 2026 [EQual](https://sites.google.com/view/equalseminar/home): TBA  
 
 
