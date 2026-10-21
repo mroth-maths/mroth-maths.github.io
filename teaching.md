@@ -33,7 +33,7 @@ Here is an example for the lecture about matrices (in French).
 - [slides](./assets/files/maths-zombie/ppp.pdf)
 - [exercises](./assets/files/maths-zombie/exercices_matrices.pdf)
 
-
+and the trailer to the lecture. 
 <video controls width="640" preload="metadata" playsinline>
   <source src="/assets/files/maths-zombie/math_zombies.mp4" type="video/mp4">
   Your browser does not support HTML video.

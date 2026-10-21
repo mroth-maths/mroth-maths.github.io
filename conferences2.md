@@ -27,7 +27,7 @@ I am currently organising the ANTLR seminar for the University of East Anglia. M
 In January 2026, I co-organised with Vanessa Miemietz a [mini-conference on categorification](https://sites.google.com/view/categorificationuea2026).
 
 #### Invited talks
-- Oct. 2026: [EQual](https://sites.google.com/view/equalseminar/home): The subregular and submaximal p-cells ([slides]./assets/files/talks/pCanonicalBasis Slides.pdf)
+- Oct. 2026: [EQual](https://sites.google.com/view/equalseminar/home): The subregular and submaximal p-cells ([slides](./assets/files/talks/pCanonicalBasisSlides.pdf))
 - Oct. 2026: Algebra seminar at Warwick University: The subregular and submaximal p-cells  
 - Mar. 2026: *Unitriangularity of decomposition matrices: the simple adjoint finite groups of exceptional type* ([slides](./assets/files/talks/unitriang_decmat.pdf)) at the Algebra seminar, University of Birmingham, United Kingdom
 - Nov. 2025: *On the unitriangularity of decomposition matrices of finite groups of Lie type of exceptional type*, ANTLR seminar, University of East Anglia, United Kingdom
