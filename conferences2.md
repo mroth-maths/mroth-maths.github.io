@@ -14,19 +14,21 @@ I am currently organising the ANTLR seminar for the University of East Anglia. M
 ### Upcoming
 
 #### Invited talks 
-- 15 Oct. 2026 Algebra seminar at Warwick University: TBA
-- 21 Oct. 2026 [EQual](https://sites.google.com/view/equalseminar/home): TBA  
+- 20 Nov. 2026: QMUL Algebra and Number Theory Seminar
 
 
 #### Conferences
-- Sept. 2026: [GRIP](https://events.math.unipd.it/grip2026/) (GRoup theory In Padova), project on Sylow restriction in the representation theory of symmetric and related groups with Stanley Law
 - Nov. 2026: Interactions between Representations of Finite and p-adic Groups at Oberwolfach, Germany
+- Mar. 2027: Representations of Finite Groups at Oberwolfach, Germany
+- Nov. 2027: [Wombats 2027](https://wombats2027.github.io/) Workshop On Modular Behaviour Across Tensor Structures at the University of Sydney
 
 ### Past
 
 In January 2026, I co-organised with Vanessa Miemietz a [mini-conference on categorification](https://sites.google.com/view/categorificationuea2026).
 
 #### Invited talks
+- Oct. 2026: [EQual](https://sites.google.com/view/equalseminar/home): The subregular and submaximal p-cells ([slides]./assets/files/talks/pCanonicalBasis Slides.pdf)
+- Oct. 2026: Algebra seminar at Warwick University: The subregular and submaximal p-cells  
 - Mar. 2026: *Unitriangularity of decomposition matrices: the simple adjoint finite groups of exceptional type* ([slides](./assets/files/talks/unitriang_decmat.pdf)) at the Algebra seminar, University of Birmingham, United Kingdom
 - Nov. 2025: *On the unitriangularity of decomposition matrices of finite groups of Lie type of exceptional type*, ANTLR seminar, University of East Anglia, United Kingdom
 - Nov. 2025: *Character sheaves and their restriction to mixed conjugacy classes*, Oxford algebra seminar, United Kingdom
@@ -43,6 +45,7 @@ In January 2026, I co-organised with Vanessa Miemietz a [mini-conference on cate
 
 #### Conferences and summer schools
 
+- Sep. 2026: [GRIP](https://events.math.unipd.it/grip2026/) (GRoup theory In Padova), project on Sylow restriction in the representation theory of symmetric and related groups with Stanley Law ([our group](./assets/images/Stacey_group.jpeg),[talk](./assets/images/grip_talk.jpg))
 - Sep. 2025: Annual meeting SFB TRR 195, Germany
 - Aug. 2025: AGGITatE 2025: Groups, Representations and Cohomology in Essex, United Kingdom
 - Jul. 2025: Modular Lie theory in York, United Kingdom

@@ -27,5 +27,12 @@ Last year (Spring 2026), I co-taught Galois Theory with Vanessa Miemietz. In spr
 
 #### Teacher
 
-In the year 2020-2021, I created a class to  prepare voluntary final year students for university mathematics at Lycée Presentation de Marie (France). I taught online and on-site, prepared lessons and exercises.The goal was to motivate the students to learn and think in a different way, by giving them
-exercises to do together, quizzes during the class (Kahoots), and activities to do maths in other contexts.
+In the year 2020-2021, I created a class to  prepare voluntary final year students for university mathematics at Lycée Presentation de Marie (France). I taught online and on-site, prepared lessons and exercises.The goal was to motivate the students to learn and think in a different way, by giving them exercises to do together, quizzes during the class (Kahoots), and activities to do maths in other contexts.
+
+Here is an example for the lecture about matrices (in French). 
+- [slides](./assets/files/maths-zombie/ppp.pdf)
+- [exercises](./assets/files/maths-zombie/exercices_matrices.pdf)
+
+<video width="320" height="240" controls>
+  <source src="./assets/files/maths-zombie/math_zombies.mp4" type="video/mp4">
+</video>
